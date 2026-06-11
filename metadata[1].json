@@ -1,0 +1,6 @@
+{
+  "name": "StrongGestio",
+  "description": "Plateforme SaaS tout-en-un de gestion d'entreprise, des employés, de la paie, des départements et finances avec analyses prédictives et assistant IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
